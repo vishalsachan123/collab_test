@@ -1,6 +1,6 @@
 sample text
-added kr
+added kr kr
 changes added from feature branch
 here
-changes added kr diye hai smjhe kr
+changes added kr diye hai smjhe kr kr
 
