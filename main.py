@@ -4,3 +4,5 @@ for i in a:
     if i == 17:
         continue
     print(i)
+
+print("This is a test for the collab environment.")
