@@ -1,6 +1,6 @@
 a = 'apple'
 
 for i in a:
-    if i == 'z':
+    if i == 'v':
         continue
     print(i)
