@@ -1,3 +1,5 @@
-sample text file
+sample text
 added
+changes added
 here
+changes added
